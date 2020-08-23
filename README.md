@@ -20,7 +20,7 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 4-Defineing Outlier Detection Parameter for Isolation Forest Algorithm and also for Local Outlier Factor Algorithm.    
 3-Fit and Predict the Data.   
 
-Result-  
+## Result-  
 1. After Comparing the Accuracy Score and Classification Report we can say Isolation Forest Algorithm outperformed Local Outlier Factor Algorithm.  
 2. Isolation Forest detected 73 errors versus Local Outlier Factor detecting 97 errors
 3. Isolation Forest has a 99.74% more accurate than LOF of 99.65%
